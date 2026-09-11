@@ -1,10 +1,10 @@
 ---
-title: flushdns – Cómo Vaciar DNS con el Comando ipconfig /flushdns de Windows
+title: flushdns – Vaciando del DNS con el Comando ipconfig /flushdns de Windows
 date: 2024-08-27T13:38:54.905Z
 author: Kolade Chris
 authorURL: https://www.freecodecamp.org/news/author/koladechris/
 originalURL: https://www.freecodecamp.org/news/flushdns-how-to-flush-dns-with-the-windows-ipconfig-flushdns-command/
-posteditor: ""
+posteditor: "lucas-agustin-morales-romero"
 proofreader: ""
 ---
 
